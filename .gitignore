@@ -1,0 +1,8 @@
+fp-info-cache
+fabrication-toolkit-options.json
+production/
+*-backups/
+place_footprints.*
+*.kicad_prl
+*.bak
+*.net
