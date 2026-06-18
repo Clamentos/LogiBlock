@@ -6,3 +6,4 @@ place_footprints.*
 *.kicad_prl
 *.bak
 *.net
+.history
