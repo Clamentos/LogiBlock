@@ -2,8 +2,8 @@
 
 A simple, small, FPGA inspired, breadboardable logic cell implemented with discrete SMD components. It is composed of a fracturable 4-input LUT and a D-type flip-flop. It can perform any 4-to-1 or 4-to-2 boolean function and it can optionally store the result in its flip-flop. Logi-Block is programmable serially and can be combined with others to implement any logic circuit.
 
-![LOGIBLOCK](./media/images/Logi-Block2.png)
-![LOGIBLOCK](./media/images/Logi-Block2-PCB.png)
+![LOGIBLOCK](./media/images/LogiBlock2.png)
+![LOGIBLOCK](./media/images/LogiBlock2_PCB.png)
 
 *Board revision 2*
 
